@@ -1,0 +1,79 @@
+/* General */
+body {
+    margin: 0px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.headline1 {
+    margin-left: 450px;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+a {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.25rem;
+}
+
+
+/* About me */
+.text-center {
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+.Hi {
+    font-size: 50px;
+}
+
+#pic1 {
+    display: none;
+}
+
+/* Featured Projects */
+
+img {
+    height: 25%;
+    width: 25%;
+}
+
+#wavelink {
+    display: none;
+}
+
+#dasmotolink {
+    display: none;
+}
+#quotelink {
+    display: none;
+}
+
+/* resume */
+
+#resume {
+    margin-top: 50px;
+}
+
+#cv {
+    height: 50px;
+    width: 50px;
+}
+/* contact */
+
+#contact {
+    margin-top: 50px;
+}
+
+#email {
+    height: 50px;
+    width: 50px;
+}
+
+#LinkedIn {
+    height: 50px;
+    width: 50px;
+}
